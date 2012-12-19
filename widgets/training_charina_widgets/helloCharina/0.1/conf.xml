@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.training_charina.widgets.HelloCharinaWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>helloCharina</label>
+  <description>Hello World Charina</description>
+</widget>
